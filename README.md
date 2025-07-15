@@ -68,6 +68,7 @@ Low Months: February, September, May
 Insight: Plan seasonal stock levels better
 
 📈 Inferential Statistics
+
 1️⃣ Correlation
 Tested whether higher-priced items tend to have more or less stock
 
