@@ -36,6 +36,7 @@ In stock and Out of Stock Price
 I explored the cleaned data with pivot tables and statistical tests:
 
 📌 Key Pivot Table Questions & Insights
+
 1️⃣ Which Categories Sell Most?
 
 Top: Straight Kurta (3,724), A-Line Kurta (1,590)
